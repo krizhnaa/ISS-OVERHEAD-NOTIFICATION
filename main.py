@@ -2,8 +2,8 @@ import requests
 import smtplib
 import time
 
-MY_LAT = xxx
-MY_LONG = yyy
+MY_LAT = xx
+MY_LONG = yy
 
 my_mail = "krizhnatester@gmail.com"
 password = ""
